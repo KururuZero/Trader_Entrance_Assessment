@@ -21,8 +21,8 @@ The pipeline is modular. Scripts `P01`–`P05` prepare and validate the data. Sc
 ### 1.1 Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/leadlag-vwap.git](https://github.com/KururuZero/Trader_Entrance_Assessment/edit/main/README.md)
-cd leadlag-vwap
+git clone [https://github.com/KururuZero/Trader_Entrance_Assessment]
+cd Trader_Entrance_Assessment
 ```
 
 ### 1.2 Python environment
