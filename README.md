@@ -8,7 +8,7 @@ Repository: https://github.com/KururuZero/Trader_Entrance_Assessment/
 
 ## Overview
 
-This repository contains a reproducible research pipeline for studying lead-lag effects between crypto venues, primarily Binance and Massive (with Massive optionally split into constituent exchanges such as Exchange1, Exchange2, Exchange6 and Exchange23).
+This repository contains a reproducible research pipeline for studying lead-lag effects between crypto venues, primarily Binance and Massive (with Massive optionally split into constituent exchanges, which are: Coinbase, Bitfinex, Bitstamp and Kraken.
 
 The pipeline:
 
